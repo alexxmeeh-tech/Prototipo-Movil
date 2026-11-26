@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Prototipo Movil</string>
+
+    <string name="taskflow_title">Taskflow</string>
+    <string name="login_header">Taskflow - Inicio de sesión</string>
+    <string name="login_subtitle">Tu día, en equilibrio.</string>
+    <string name="login_instruction">Inicia sesión y haz espacio para lo importante.</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_button">Registrarse</string>
+    <string name="cd_logo">Logo de Taskflow</string>
+    <string name="cd_card_icon">Icono de sección</string>
+    <string name="cd_back">Regresar</string>
+    <string name="dashboard_welcome">Resumen de tus actividades</string>
+    <string name="dashboard_title">Panel principal</string>
+
+    <string name="register_top_title">Crear cuenta</string>
+    <string name="register_heading">Regístrate en Taskflow</string>
+    <string name="register_subtitle">Tu usuario se guardará en la base de datos local.</string>
+    <string name="register_name_hint">Nombre completo</string>
+    <string name="register_error_empty">Completa todos los campos.</string>
+    <string name="register_submit_button">Registrarme y continuar</string>
+
+    <string name="nav_home">Inicio</string>
+    <string name="nav_search">Buscar</string>
+    <string name="nav_alerts">Alertas</string>
+    <string name="nav_profile">Perfil</string>
+
+    <string name="greeting_format">Hola, %1$s</string>
+    <string name="default_user_name">Usuario</string>
+    <string name="default_user_initial">U</string>
+    <string name="default_user_email">usuario@taskflow.local</string>
+    <string name="cd_all_tasks">Ver todas las tareas</string>
+    <string name="search_placeholder">Buscar tareas o proyectos...</string>
+    <string name="search_go">Ir</string>
+
+    <string name="progress_empty_title">Crea tu primera tarea</string>
+    <string name="progress_active_title">¡Vas por buen camino!</string>
+    <string name="progress_summary_format">%1$d de \%2$d tareas completadas</string>
+
+    <string name="section_space_title">Tu espacio</string>
+    <string name="active_tasks_format">%1$d tareas activas</string>
+
+    <string name="card_my_day_title">Mi día</string>
+    <string name="card_my_day_subtitle_format">%1$d pendientes</string>
+
+    <string name="card_projects_title">Proyectos</string>
+    <string name="card_projects_subtitle_format">%1$d en marcha</string>
+
+    <string name="card_important_title">Importantes</string>
+    <string name="card_important_subtitle_format">%1$d destacadas</string>
+
+    <string name="card_completed_title">Completadas</string>
+    <string name="card_completed_subtitle_format">%1$d este mes</string>
+
+    <string name="fab_add_cd">Agregar</string>
+    <string name="fab_new_task_cd">Nueva tarea</string>
+
+    <string name="detail_top_title">Detalles de la Tarea</string>
+    <string name="detail_project_tag">PROYECTO · LANZAMIENTO WEB</string>
+    <string name="detail_default_title">Revisar propuesta</string>
+    <string name="detail_default_desc">Revisar los últimos ajustes de diseño y compartir comentarios con el equipo.</string>
+    <string name="detail_title_hint">Título de la tarea</string>
+    <string name="detail_desc_hint">Descripción</string>
+    <string name="detail_reminder_title">Activar recordatorios</string>
+    <string name="detail_reminder_subtitle">Te avisaremos 30 min antes.</string>
+    <string name="detail_tags_title">Etiquetas</string>
+    <string name="tag_work">Trabajo</string>
+    <string name="tag_personal">Personal</string>
+    <string name="tag_design">Diseño</string>
+    <string name="tag_ideas">Ideas</string>
+    <string name="detail_priority_title">Nivel de prioridad</string>
+    <string name="priority_low">Baja</string>
+    <string name="priority_medium">Media</string>
+    <string name="priority_high">Alta</string>
+    <string name="detail_cancel_button">Cancelar</string>
+    <string name="detail_save_button">Guardar Cambios</string>
+
+    <string name="tasks_saved_title">Tareas guardadas</string>
+    <string name="tasks_saved_empty">Aún no hay tareas guardadas en Room.</string>
+    <string name="section_all_tasks_title">Todas las tareas</string>
+    <string name="section_empty_title_format">Sin elementos en %1$s</string>
+    <string name="section_empty_subtitle">Pulsa el botón + para agregar una tarea y guardarla en la base de datos.</string>
+    <string name="task_toggle_status_cd">Cambiar estado</string>
+    <string name="task_status_format">Estado: %1$s</string>
+    <string name="task_delete_cd">Eliminar tarea</string>
+
+    <string name="search_top_title">Buscar tareas y proyectos</string>
+    <string name="search_filter_placeholder">Escribe para filtrar por título o etiqueta...</string>
+    <string name="search_no_results">No se encontraron tareas con ese filtro.</string>
+
+    <string name="alerts_top_title">Alertas y recordatorios</string>
+    <string name="alerts_banner_tag">AVISOS ACTIVOS</string>
+    <string name="alerts_banner_summary_format">Tienes %1$d tareas pendientes de revisión</string>
+    <string name="alerts_empty">No tienes alertas pendientes por ahora.</string>
+
+    <string name="profile_top_title">Perfil de usuario</string>
+    <string name="profile_db_summary_title">Resumen en base de datos local</string>
+    <string name="profile_users_count_format">Usuarios registrados: %1$d</string>
+    <string name="profile_tasks_count_format">Tareas guardadas: %1$d</string>
+    <string name="profile_register_new_button">Registrar nuevo usuario</string>
+    <string name="profile_logout_button">Cerrar sesión</string>
+</resources>
